@@ -1,0 +1,17 @@
+#registerForm,
+#loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+/* error div-овете при формите за логин и регистрация */
+.error {
+    display: none;
+}
+
+/* #logoutNavLink {
+    display: none;
+} */
